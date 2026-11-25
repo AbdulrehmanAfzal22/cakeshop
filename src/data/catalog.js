@@ -1,0 +1,131 @@
+export const catalog = [
+  {
+    name: 'Violet Bloom',
+    category: 'Florals',
+    description: 'Sculpted purple flowers, gold leaves and lavender brushstrokes.',
+    image: '214633.webp',
+  },
+  {
+    name: 'Pastel Unicorn',
+    category: 'Kids',
+    description: 'A lavender cake with rainbow unicorns and little gold stars.',
+    image: '214655.webp',
+  },
+  {
+    name: 'Little Safari',
+    category: 'Kids',
+    description: 'Fondant safari animals sit atop a soft green and ivory cake.',
+    image: '214540.webp',
+  },
+  {
+    name: 'Peony & Pearls',
+    category: 'Florals',
+    description: 'A coral sugar peony and tiny gold pearls on ivory frosting.',
+    image: '214728.webp',
+  },
+  {
+    name: 'One Year of Love',
+    category: 'Milestones',
+    description: 'A fondant couple surrounded by white flowers, finished with a bow.',
+    image: '214616.webp',
+  },
+  {
+    name: 'Midnight Gold',
+    category: 'Milestones',
+    description: 'A black-to-ivory finish with gold edges and sculpted spheres.',
+    image: '214624.webp',
+  },
+  {
+    name: 'Bride to Be',
+    category: 'Milestones',
+    description: 'A bridal figure framed by bright pink hearts and black-and-white stripes.',
+    image: '214603.webp',
+  },
+  {
+    name: 'Sapphire Birthday',
+    category: 'Birthdays',
+    description: 'Blue roses, gold butterflies and a personalised calendar topper.',
+    image: '214525.webp',
+  },
+  {
+    name: 'Blow Away Cake',
+    category: 'Birthdays',
+    description: 'A bold pink-and-purple birthday centrepiece with a portrait topper.',
+    image: '214531.webp',
+  },
+  {
+    name: 'Game On',
+    category: 'Kids',
+    description: 'A gaming-themed birthday cake with controller and headset toppers.',
+    image: '214514.webp',
+  },
+  {
+    name: 'Race Day',
+    category: 'Kids',
+    description: 'A race-car topper and chequered flags on an aqua birthday cake.',
+    image: '214646.webp',
+  },
+  {
+    name: 'Snowflake Princess',
+    category: 'Kids',
+    description: 'A blue winter-themed cake with sugar snowflakes and an age topper.',
+    image: '214707.webp',
+  },
+  {
+    name: 'Superhero Squad',
+    category: 'Kids',
+    description: 'Four superhero motifs in bright blocks of colour.',
+    image: '214718.webp',
+  },
+  {
+    name: 'Grand Prix',
+    category: 'Kids',
+    description: 'A two-tier race-car cake with a chequered finish.',
+    image: '214735.webp',
+  },
+  {
+    name: 'Winter Birthday',
+    category: 'Kids',
+    description: 'Blue flower toppers and snowflakes frame a winter scene.',
+    image: '214741.webp',
+  },
+  {
+    name: 'Citrus & Gold',
+    category: 'Birthdays',
+    description: 'A bright orange square cake topped with black and gold spheres.',
+    image: '214753.webp',
+  },
+  {
+    name: 'My King',
+    category: 'Milestones',
+    description: 'A sculpted black polo-shirt design with gold detailing.',
+    image: '214549.webp',
+  },
+  {
+    name: 'Cake + Flower',
+    category: 'Cake & Gifts',
+    description: 'A mini cake in a presentation box paired with a pink rose bouquet and ribbon.',
+    image: 'gift-17.webp',
+  },
+  {
+    name: 'Cupcake Bouquet',
+    category: 'Cake & Gifts',
+    description: 'A pink floral cupcake arrangement presented in a gift box with ribbon and a Mother’s Day card.',
+    image: 'gift-18.webp',
+  },
+  {
+    name: 'Flower + Cake',
+    category: 'Cake & Gifts',
+    description: 'A Mother’s Day gift arrangement with a flower bouquet, chocolate cake, balloons and framed message.',
+    image: 'gift-19.webp',
+  },
+];
+
+export const categories = [
+  'All designs',
+  'Birthdays',
+  'Kids',
+  'Florals',
+  'Milestones',
+  'Cake & Gifts',
+];
